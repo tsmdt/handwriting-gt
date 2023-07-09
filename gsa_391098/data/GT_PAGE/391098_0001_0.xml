@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2023-07-08T12:30:01.305347+00:00</Created>
+        <LastChange>2023-07-08T12:30:01.305387+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="391098_0001_0.jpg" imageWidth="4096" imageHeight="6144">
+
+    
+    <TextRegion id="eSc_textblock_f7d012e6"  custom="structure {type:text;}">
+      <Coords points="1894,2334 2276,2362 2331,2471 2317,2658 2522,2703 2536,2850 2317,2918 1638,2932 1611,2703 1720,2658 1720,2457 1894,2334"/>
+      
+      
+      <TextLine id="eSc_line_9c4383e9" custom="structure {type:default;}">
+        <Coords points="2273,2385 2191,2375 2186,2375 2181,2375 2176,2375 2150,2396 2094,2447 2037,2447 1976,2411 1904,2370 1899,2370 1894,2370 1889,2370 1776,2416 1776,2554 1771,2606 1899,2657 1904,2657 1909,2657 1914,2657 2001,2626 2022,2621 2273,2647 2283,2575 2283,2396 2273,2385"/>
+        <Baseline points="1781,2555 2286,2580"/>
+        <TextEquiv>
+          <Unicode>Fauſt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2221f234" custom="structure {type:default;}">
+        <Coords points="2467,2688 2432,2718 2375,2682 2360,2672 2355,2672 2350,2672 2186,2672 2181,2672 2176,2672 2170,2672 2160,2682 2094,2734 1756,2734 1653,2677 1648,2682 1648,2821 1653,2928 1730,2887 1761,2918 1766,2923 1766,2928 1771,2928 1776,2928 1781,2933 1909,2933 1909,2928 1914,2928 1920,2928 1920,2923 1940,2908 1976,2872 2114,2872 2181,2887 2319,2928 2324,2928 2329,2928 2334,2928 2339,2928 2396,2877 2503,2862 2503,2816 2478,2688 2467,2688"/>
+        <Baseline points="1650,2823 2508,2819"/>
+        <TextEquiv>
+          <Unicode>Zweyter Theil</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_47486084"  custom="structure {type:text;}">
+      <Coords points="2041,3194 2344,3208 2372,3341 2331,3382 1993,3382 1966,3276 2041,3194"/>
+      
+      
+      <TextLine id="eSc_line_4e5c90ad" custom="structure {type:default;}">
+        <Coords points="2338,3215 2099,3205 2095,3205 2007,3222 1996,3239 1996,3338 1996,3386 2344,3372 2344,3338 2344,3235 2338,3215"/>
+        <Baseline points="1996,3338 2344,3338"/>
+        <TextEquiv>
+          <Unicode>1831.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_77469b0b"  custom="structure {type:text;}">
+      <Coords points="3273,1993 3368,2071 3218,2235 2962,2222 2990,2088 3273,1993"/>
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+    
+    
+      <TextLine id="eSc_line_e9a28bcd" custom="structure {type:default;}">
+        <Coords points="3240,2068 3240,2145 3333,2129 3333,2068 3333,1981 3240,1981 3240,2068"/>
+        <Baseline points="3242,2069 3334,2072"/>
+        <TextEquiv>
+          <Unicode>η.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f55aad30" custom="structure {type:default;}">
+        <Coords points="2983,2123 2979,2201 2979,2239 3215,2239 3215,2201 3211,2048 3007,2085 2983,2123"/>
+        <Baseline points="2979,2201 3215,2201"/>
+        <TextEquiv>
+          <Unicode>38.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

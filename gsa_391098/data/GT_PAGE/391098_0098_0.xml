@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2023-07-08T12:30:03.638156+00:00</Created>
+        <LastChange>2023-07-08T12:30:03.638169+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="391098_0098_0.jpg" imageWidth="4096" imageHeight="6144">
+
+    
+    <TextRegion id="eSc_textblock_be0d4a71"  custom="structure {type:text;}">
+      <Coords points="1832,1720 3396,1815 3437,1976 3314,2058 1774,2017 1720,1989 1720,1856 1832,1720"/>
+      
+      
+      <TextLine id="eSc_line_0c919c64" custom="structure {type:default;}">
+        <Coords points="1735,1832 1735,1955 1730,2001 1812,2032 1817,2032 1822,2032 1827,2032 1879,2007 1884,2007 2298,2007 2334,2027 2401,2073 2406,2073 2411,2073 2416,2078 2662,2078 2662,2073 2667,2073 2672,2073 2708,2048 3061,2073 3066,2073 3072,2073 3077,2073 3092,2063 3164,2012 3235,2068 3240,2073 3246,2073 3251,2073 3256,2078 3379,2078 3384,1960 3374,1843 3200,1858 3164,1838 3123,1802 3118,1802 3112,1802 3107,1802 3102,1802 2990,1832 2979,1832 2964,1832 2836,1792 2831,1792 2826,1792 2821,1792 2816,1792 2775,1827 2728,1863 2401,1863 2350,1817 2324,1792 2319,1792 2314,1792 2309,1792 2304,1792 2298,1792 2268,1812 2206,1853 2104,1807 2099,1807 2094,1807 1756,1802 1735,1832"/>
+        <Baseline points="1737,1959 3387,1965"/>
+        <TextEquiv>
+          <Unicode>/: Andere drängen ſich herzu :/</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
