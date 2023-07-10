@@ -10,7 +10,7 @@ A collection of handwritten ground truth datasets for HTR training. See sections
 
 # data sets
 ## gsa_x
-Transcription / Images: [faustedition](https://github.com/faustedition) <br/>
+Transcription / Images: [faustedition](https://github.com/faustedition/faust-xml) <br/>
 License: CC BY-NC-SA 4.0
 
 Download images using the bash script `download_imgs.sh` in each data set folder.
