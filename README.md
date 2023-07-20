@@ -10,7 +10,7 @@ See sections below for individual data set descriptions.
 
 # Data Sets
 ## Theodor Fontane Notizbücher
-| Folder Name | Source | Pages | Lines | License | 
+| Folder | Source | Pages | Lines | License | 
 |------|--------|-------|-------|---------|
 |A01|[Fontane Edition](https://fontane-nb.dariah.eu/xml.html?id=/xml/data/16q90.xml)|67|1046|CC BY-NC-ND 4.0|
 |C13|[Fontane Edition](https://fontane-nb.dariah.eu/xml.html?id=/xml/data/16q90.xml)|53|879|CC BY-NC-ND 4.0|
@@ -26,7 +26,7 @@ Example: `Sammlung` (edition) -> `Sam̄lung` (ground truth)
 
 
 ## faustedition
-| Folder Name | Source | Pages | Lines | License | 
+| Folder | Source | Pages | Lines | License | 
 |------|--------|-------|-------|---------|
 |gsa_389889|[faustedition](https://github.com/faustedition/faust-xml)|8|230|CC BY-NC-SA 4.0|
 |gsa_390028|[faustedition](https://github.com/faustedition/faust-xml)|94|2493|CC BY-NC-SA 4.0|
