@@ -9,7 +9,7 @@ All ground truth is provided as PAGE XML. All transcriptions are based on the [O
 See sections below for individual data set descriptions.
 
 # Data Sets
-## faustproject
+## faustedition
 | Folder Name | Source | Pages | Lines | License | 
 |------|--------|-------|-------|---------|
 |gsa_389889|[faustedition](https://github.com/faustedition/faust-xml)|8|230|CC BY-NC-SA 4.0|
