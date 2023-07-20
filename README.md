@@ -9,11 +9,11 @@ All ground truth is provided as **PAGE XML**. All transcriptions are based on th
 See sections below for individual data set descriptions.
 
 # Data Sets
-## Fontane Notizbücher
+## Theodor Fontane Notizbücher
 | Folder Name | Source | Pages | Lines | License | 
 |------|--------|-------|-------|---------|
-|A01|[Theodor Fontane Edition](https://fontane-nb.dariah.eu/xml.html?id=/xml/data/16q90.xml)|67|1046|CC BY-NC-ND 4.0|
-|C13|[Theodor Fontane Edition](https://fontane-nb.dariah.eu/xml.html?id=/xml/data/16q90.xml)|53|879|CC BY-NC-ND 4.0|
+|A01|[Fontane Edition](https://fontane-nb.dariah.eu/xml.html?id=/xml/data/16q90.xml)|67|1046|CC BY-NC-ND 4.0|
+|C13|[Fontane Edition](https://fontane-nb.dariah.eu/xml.html?id=/xml/data/16q90.xml)|53|879|CC BY-NC-ND 4.0|
 |||**120**|**1925**||
 
 Download images using the bash script `download_imgs.sh` in each data set folder.
