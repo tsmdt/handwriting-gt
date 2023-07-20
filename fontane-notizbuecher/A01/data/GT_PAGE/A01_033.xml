@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T10:18:52</Created>
+        <LastChange>2023-07-19T13:02:51.859+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504695" pageId="57539599" pageNr="33" tsid="130074403" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=WDGOVDVRABIUFPDVYDGLIMGE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OWRAGOWQCAEOEUGZNKLVMXTW" imageId="46569033"/>
+    </Metadata>
+    <Page imageFilename="A01_033.jpg" imageWidth="5564" imageHeight="4328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689766021824" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_f7f14f33"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_f7f14f33" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="2754,197 2754,3944 5188,3944 5188,197"/>
+            <TextLine id="eSc_line_f2e5ba9b" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="5073,198 5037,198 5001,198 4965,198 4965,266 4965,317 5102,310 5102,266 5102,198 5073,198"/>
+                <Baseline points="4968,268 5103,268"/>
+                <TextEquiv>
+                    <Unicode>32</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_e40a4f9c" custom="readingOrder {index:1;} structure {type:default;}">
+                <Coords points="2998,559 3059,569 3063,569 3067,569 3070,569 3081,559 3113,541 3189,559 3228,661 3232,661 3236,661 3239,661 3261,654 3341,533 3384,559 3391,566 3395,566 3399,566 3402,566 3406,566 3409,566 3409,562 3413,559 3431,544 3453,559 3456,559 3460,559 3463,559 3467,559 3626,530 3658,559 3666,562 3666,566 3669,566 3673,566 3676,569 3821,569 3821,566 3824,566 3846,559 3951,526 4026,526 4091,559 4099,508 4088,382 3720,389 3716,389 3712,389 3698,400 3651,436 3590,407 3561,393 3557,393 3554,393 3550,393 3546,393 3546,396 3532,411 3503,440 3435,421 3431,421 3427,421 3312,440 3258,425 3240,418 3236,418 3233,418 3229,418 3225,418 3211,408 3182,302 3017,364 2998,522"/>
+                <Baseline points="3002,524 4102,509"/>
+                <TextEquiv>
+                    <Unicode>Begräbnißplatz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_15e520a1" custom="readingOrder {index:2;} structure {type:default;}">
+                <Coords points="4091,385 4095,504 4308,501 4311,501 4315,501 4315,497 4340,479 4398,425 4474,425 4477,425 4481,425 4539,396 4618,429 4622,429 4625,429 4629,429 4759,396 4838,407 4842,407 4845,407 4928,364 5087,378 5094,342 5084,274 4896,281 4882,274 4842,241 4838,241 4835,241 4831,241 4748,245 4744,245 4741,245 4690,274 4661,292 4636,274 4593,252 4589,252 4586,252 4582,252 4539,277 4495,299 4420,277 4369,263 4366,263 4362,263 4286,277 4218,292 4192,277 4182,270 4178,270 4174,270 4171,270 4084,277 4091,385"/>
+                <Baseline points="4095,388 5096,346"/>
+                <TextEquiv>
+                    <Unicode>(Von 6. Linden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_93e89a14" custom="readingOrder {index:3;} structure {type:default;}">
+                <Coords points="4405,555 4405,587 4560,584 4564,584 4607,623 4611,623 4615,623 4708,638 4712,638 4716,638 4719,638 4777,602 4918,638 4921,638 4925,638 5022,631 5026,631 5029,631 5116,559 5116,515 5109,418 5011,385 5008,385 5004,385 5001,385 4997,385 4961,411 4925,385 4921,385 4918,385 4914,385 4741,396 4737,396 4734,396 4734,400 4676,454 4672,458 4622,458 4449,458 4445,458 4441,458 4398,472 4405,555"/>
+                <Baseline points="4407,559 5117,516"/>
+                <TextEquiv>
+                    <Unicode>eingefaßt.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_914ff1ea" custom="readingOrder {index:4;} structure {type:default;}">
+                <Coords points="2922,364 2843,367 2818,479 2818,483 2818,486 2846,591 2839,660 2839,663 2839,667 2890,775 2966,771 3002,764 2955,497 2958,476 2969,436 2969,432 2969,429 2969,425 2940,360 2922,364"/>
+                <Baseline points="2967,772 2924,367"/>
+                <TextEquiv>
+                    <Unicode>Linde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_7c360cf3" custom="readingOrder {index:5;} structure {type:default;}">
+                <Coords points="5080,1089 5105,1089 5120,663 5116,663 5008,652 4975,735 4975,739 4975,742 4990,905 4957,1006 4957,1009 4957,1013 4957,1017 4975,1078 5080,1089"/>
+                <Baseline points="5081,1091 5117,665"/>
+                <TextEquiv>
+                    <Unicode>Linde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_2fa49165" custom="readingOrder {index:6;} structure {type:default;}">
+                <Coords points="3615,1045 3615,1100 3730,1100 3730,1096 3734,1096 3738,1096 3749,1085 3781,1063 3853,1074 3875,1078 3878,1078 3882,1078 3904,1071 3965,1049 4077,1053 4080,1031 4070,962 3896,970 3864,966 3745,944 3741,944 3738,944 3734,944 3705,970 3694,977 3611,973 3615,1045"/>
+                <Baseline points="3619,1048 4081,1034"/>
+                <TextEquiv>
+                    <Unicode>Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_e51f6bac" custom="readingOrder {index:7;} structure {type:default;}">
+                <Coords points="3269,1280 3272,1323 3334,1298 3629,1312 3759,1320 3763,1320 3813,1309 3875,1294 4203,1294 4210,1298 4228,1312 4232,1312 4236,1312 4239,1312 4387,1291 4391,1273 4380,1182 4268,1182 4265,1182 4131,1125 4127,1125 3983,1125 3979,1125 3976,1125 3972,1125 3886,1182 3788,1143 3785,1143 3781,1143 3777,1143 3774,1143 3716,1186 3705,1186 3583,1164 3579,1164 3575,1164 3532,1186 3471,1132 3471,1128 3467,1128 3463,1128 3377,1128 3373,1128 3370,1128 3366,1128 3366,1132 3308,1186 3308,1190 3265,1190 3269,1280"/>
+                <Baseline points="3272,1283 4393,1275"/>
+                <TextEquiv>
+                    <Unicode>Knesebecken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_a3222b9d" custom="readingOrder {index:8;} structure {type:default;}">
+                <Coords points="3539,1493 3539,1529 3824,1511 3850,1518 3882,1525 3886,1525 3889,1525 3893,1525 3896,1525 3896,1522 3907,1514 3922,1493 4041,1493 4084,1503 4142,1518 4145,1518 4149,1518 4153,1518 4156,1518 4156,1514 4174,1496 4182,1489 4290,1489 4293,1471 4283,1392 4120,1392 4059,1334 4059,1330 4055,1330 4052,1330 3961,1327 3958,1327 3954,1327 3774,1388 3687,1334 3684,1334 3680,1334 3676,1334 3611,1338 3608,1338 3604,1338 3536,1392 3539,1493"/>
+                <Baseline points="3541,1495 4294,1474"/>
+                <TextEquiv>
+                    <Unicode>Grab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_4d804c36" custom="readingOrder {index:9;} structure {type:default;}">
+                <Coords points="2980,1871 2886,1871 2919,2059 2987,2059 3012,2055 3023,1868 2980,1871"/>
+                <Baseline points="2988,2063 2981,1872"/>
+                <TextEquiv>
+                    <Unicode>Linde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_efc66959" custom="readingOrder {index:10;} structure {type:default;}">
+                <Coords points="3193,2726 3261,2723 3261,2629 3258,2625 3258,2622 3211,2531 3236,2409 3236,2405 3236,2402 3236,2398 3211,2362 3211,2225 3258,2070 3258,2066 3261,2066 3261,1962 3193,1962 3056,1962 3016,2048 3016,2052 3016,2055 3016,2059 3016,2063 3049,2099 3081,2135 3081,2297 3052,2329 3049,2329 3049,2333 3049,2337 3030,2427 3027,2448 3027,2452 3027,2456 3027,2459 3045,2499 3020,2557 3012,2578 3012,2582 3012,2585 3012,2726 3193,2726"/>
+                <Baseline points="3194,2730 3194,1964"/>
+                <TextEquiv>
+                    <Unicode>Fr. W. L. v. d. K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_deaa5aa7" custom="readingOrder {index:11;} structure {type:default;}">
+                <Coords points="3370,2066 3294,2070 3276,2272 3276,2275 3283,2351 3283,2355 3283,2358 3308,2387 3330,2412 3330,2470 3312,2495 3294,2513 3294,2517 3294,2521 3294,2524 3319,2647 3420,2643 3438,2636 3409,2391 3409,2063 3370,2066"/>
+                <Baseline points="3421,2645 3371,2070"/>
+                <TextEquiv>
+                    <Unicode>Gb. 1734</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_e02df298" custom="readingOrder {index:12;} structure {type:default;}">
+                <Coords points="3525,2102 3406,2102 3409,2326 3409,2329 3409,2333 3435,2391 3420,2697 3525,2701 3550,2697 3546,2102 3525,2102"/>
+                <Baseline points="3527,2702 3527,2106"/>
+                <TextEquiv>
+                    <Unicode>Gst. 1803</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_354888d1" custom="readingOrder {index:13;} structure {type:default;}">
+                <Coords points="3738,1821 3669,1821 3669,1965 3669,1969 3629,2088 3629,2091 3629,2095 3629,2099 3669,2218 3633,2261 3633,2264 3633,2268 3633,2272 3633,2275 3673,2347 3640,2434 3640,2438 3637,2585 3637,2589 3684,2892 3752,2892 3781,2885 3752,2333 3763,1817 3738,1821"/>
+                <Baseline points="3754,2894 3740,1822"/>
+                <TextEquiv>
+                    <Unicode>aufrechtſtehender Granitſtein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_93f9ea5b" custom="readingOrder {index:14;} structure {type:default;}">
+                <Coords points="4030,2416 3893,2430 3875,2492 3875,2495 3875,2499 3875,2503 3918,2629 4055,2614 4091,2600 4048,2506 4041,2412 4030,2416"/>
+                <Baseline points="4059,2617 4031,2418"/>
+                <TextEquiv>
+                    <Unicode>Erde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_61e2fe29" custom="readingOrder {index:15;} structure {type:default;}">
+                <Coords points="4142,2319 4120,2398 4120,2402 4120,2405 4174,2629 4257,2636 4319,2636 4337,2510 4337,2506 4337,2503 4337,2499 4322,2474 4293,2427 4293,2365 4322,2329 4261,2322 4142,2319"/>
+                <Baseline points="4258,2638 4265,2326"/>
+                <TextEquiv>
+                    <Unicode>Epheu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_36641456" custom="readingOrder {index:16;} structure {type:default;}">
+                <Coords points="5080,1861 4997,1861 4997,1933 4986,1951 4950,2012 4950,2016 4950,2019 4950,2023 4950,2026 4972,2109 4965,2257 5087,2261 5116,2257 5123,1922 5123,1918 5123,1915 5102,1857 5080,1861"/>
+                <Baseline points="5089,2262 5081,1864"/>
+                <TextEquiv>
+                    <Unicode>Linde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_0d03c157" custom="readingOrder {index:17;} structure {type:default;}">
+                <Coords points="3041,3631 2937,3624 2919,3801 2919,3805 2937,3884 3034,3891 3052,3887 3049,3631 3041,3631"/>
+                <Baseline points="3037,3894 3045,3632"/>
+                <TextEquiv>
+                    <Unicode>Linde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_103d446a" custom="readingOrder {index:18;} structure {type:default;}">
+                <Coords points="3510,3700 3561,3700 3561,3592 3557,3588 3557,3585 3557,3581 3550,3570 3525,3527 3543,3476 3554,3440 3554,3437 3554,3433 3554,3429 3554,3426 3536,3401 3525,3379 3525,3246 3510,3246 3435,3246 3435,3372 3427,3379 3391,3462 3391,3466 3391,3469 3420,3700 3510,3700"/>
+                <Baseline points="3513,3703 3513,3248"/>
+                <TextEquiv>
+                    <Unicode>General-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_9c6d374a" custom="readingOrder {index:19;} structure {type:default;}">
+                <Coords points="3626,3368 3536,3357 3536,3631 3604,3642 3676,3646 3687,3527 3687,3523 3655,3368 3626,3368"/>
+                <Baseline points="3605,3646 3627,3369"/>
+                <TextEquiv>
+                    <Unicode>major.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b02982db" custom="readingOrder {index:20;} structure {type:default;}">
+                <Coords points="3824,3325 3702,3336 3676,3581 3676,3585 3676,3588 3745,3725 3864,3714 3907,3707 3922,3686 3922,3682 3922,3678 3922,3675 3922,3671 3896,3631 3878,3603 3889,3581 3915,3527 3915,3523 3915,3520 3907,3426 3907,3422 3907,3419 3904,3419 3860,3372 3853,3321 3824,3325"/>
+                <Baseline points="3868,3717 3825,3326"/>
+                <TextEquiv>
+                    <Unicode>Boja-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_16f53f59" custom="readingOrder {index:21;} structure {type:default;}">
+                <Coords points="4037,3346 3951,3357 4001,3642 4084,3635 4120,3621 4084,3556 4066,3339 4037,3346"/>
+                <Baseline points="4088,3639 4038,3348"/>
+                <TextEquiv>
+                    <Unicode>nows-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_49e8175e" custom="readingOrder {index:22;} structure {type:default;}">
+                <Coords points="4286,3451 4127,3458 4160,3660 4297,3657 4326,3653 4319,3447 4286,3451"/>
+                <Baseline points="4301,3660 4287,3454"/>
+                <TextEquiv>
+                    <Unicode>ki.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_6f5ee9b3" custom="readingOrder {index:23;} structure {type:default;}">
+                <Coords points="5127,3451 5127,3148 5102,3148 5008,3148 4986,3217 4986,3220 4986,3224 4986,3227 5004,3267 5008,3271 5004,3282 4986,3354 4986,3357 4986,3361 5001,3447 5102,3451 5127,3451"/>
+                <Baseline points="5103,3454 5103,3149"/>
+                <TextEquiv>
+                    <Unicode>Linde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>32
+Begräbnißplatz.
+(Von 6. Linden
+eingefaßt.)
+Linde.
+Linde
+Der
+Knesebecken
+Grab.
+Linde
+Fr. W. L. v. d. K.
+Gb. 1734
+Gst. 1803
+aufrechtſtehender Granitſtein
+Erde.
+Epheu.
+Linde
+Linde
+General-
+major.
+Boja-
+nows-
+ki.
+Linde</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

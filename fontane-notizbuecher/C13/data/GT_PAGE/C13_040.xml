@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T09:19:35</Created>
+        <LastChange>2023-07-19T09:19:35</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504614" pageId="57523001" pageNr="40" tsid="130044118" status="NEW" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=BRCKEIKPMDUHBEWEZHCZVTRR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MWYOYKKIXMJKXWKTKIDVSZNX" imageId="46552441"/>
+    </Metadata>
+    <Page imageFilename="C13_040.jpg" imageWidth="5556" imageHeight="4509">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689760101186" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_6a668b2b"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_6a668b2b" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="4999,430 5034,490 5014,628 4866,648 4816,558 4816,460 4999,430"/>
+            <TextLine id="eSc_line_84647127" custom="readingOrder {index:0;}">
+                <Coords points="4853,563 4853,616 4943,665 4947,665 4950,665 5010,650 5010,563 4999,480 4958,507 4853,492 4853,563"/>
+                <Baseline points="4856,565 5014,565"/>
+                <TextEquiv>
+                    <Unicode>39</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

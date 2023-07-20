@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T10:18:51</Created>
+        <LastChange>2023-07-19T12:52:52.327+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504695" pageId="57539449" pageNr="2" tsid="130073858" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=NGFUUZEIEBHTQGSWTYQXUJKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHTEDKOXQSIRBSDDOIOWXOJU" imageId="46568883"/>
+    </Metadata>
+    <Page imageFilename="A01_002.jpg" imageWidth="5563" imageHeight="4327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689766021793" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_bb57d9fd"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_9d376306"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_bb57d9fd" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="1536,278 1565,353 1526,401 1134,430 1067,362 1077,288 1127,259"/>
+            <TextLine id="eSc_line_a7ce283c" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="1522,306 1403,306 1392,299 1327,266 1298,266 1262,266 1082,277 1082,281 1082,356 1082,414 1190,382 1298,421 1309,425 1313,425 1316,425 1342,421 1486,400 1529,429 1544,371 1540,356 1522,306"/>
+                <Baseline points="1085,360 1547,374"/>
+                <TextEquiv>
+                    <Unicode>507-1</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_9d376306" custom="readingOrder {index:1;} structure {type:text;}">
+            <Coords points="5006,146 5082,4008 3235,4008 3235,3764 3584,3764 3584,3410 3752,3410 3752,2997 4403,2997 4403,2254 4559,2254 4559,1644 4728,1644 4728,1354 4792,1354 4792,866 4600,866 4600,1203 4333,1203 4333,1586 3990,1586 3990,1737 3590,1737 3590,2806 3288,2806 3288,3073 3090,3073 3090,3567 2899,3567 2899,4008 2663,4014 2520,176"/>
+            <TextLine id="eSc_line_a60cb533" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="3806,180 3459,191 3459,277 3456,302 4036,328 4044,288 4040,205 3809,180 3806,180"/>
+                <Baseline points="3463,280 4046,289"/>
+                <TextEquiv>
+                    <Unicode>FONTANE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_c3ecb805" custom="readingOrder {index:1;} structure {type:default;}">
+                <Coords points="4834,151 4798,151 4762,151 4726,155 4689,155 4653,155 4617,158 4581,158 4545,158 4509,158 4473,162 4469,162 4462,169 4451,176 4437,169 4422,162 4401,162 4372,162 4368,165 4311,176 4220,165 4220,169 4184,169 4148,169 4112,169 4076,173 4040,173 4004,173 4004,237 4000,274 4181,274 4220,295 4249,313 4253,313 4257,313 4260,313 4264,313 4293,299 4311,292 4462,310 4466,310 4574,284 4614,310 4617,310 4621,310 4625,310 4704,299 4747,338 4751,342 4751,346 4754,346 4758,346 4924,353 4931,270 4931,187 4837,151 4834,151"/>
+                <Baseline points="4005,241 4932,273"/>
+                <TextEquiv>
+                    <Unicode>Dieses Buch hat 61 Blatt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_441f93b6" custom="readingOrder {index:2;} structure {type:default;}">
+                <Coords points="3344,479 3340,526 3813,508 3878,519 3993,540 3997,540 4000,540 4051,515 4087,533 4091,533 4094,533 4098,533 4101,533 4134,512 4141,512 4257,512 4260,490 4260,418 4166,418 4166,414 4127,378 4127,375 4123,375 4119,375 4116,375 4112,375 4033,407 3928,385 3925,385 3921,385 3860,411 3813,371 3809,371 3806,371 3650,371 3647,371 3643,371 3575,407 3510,382 3506,382 3503,382 3344,403 3344,479"/>
+                <Baseline points="3345,480 4263,493"/>
+                <TextEquiv>
+                    <Unicode>Wildberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_4df98af3" custom="readingOrder {index:3;} structure {type:default;}">
+                <Coords points="3135,248 3066,259 3084,389 3084,393 3091,411 3153,544 3167,674 3145,717 3207,721 3290,695 3236,558 3221,439 3236,400 3250,360 3250,356 3250,353 3250,349 3207,234 3135,248"/>
+                <Baseline points="3138,251 3208,723"/>
+                <TextEquiv>
+                    <Unicode>ſagen das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_bdd6e7f1" custom="readingOrder {index:4;} structure {type:default;}">
+                <Coords points="2990,234 2958,237 2976,328 2976,331 2961,371 2961,375 2961,378 2961,382 3059,746 3102,739 3174,717 3156,512 3156,508 3156,504 3153,504 3098,443 3080,425 3059,317 3062,313 3073,299 3073,295 3073,292 3073,288 3073,284 3073,281 3037,219 2990,234"/>
+                <Baseline points="2994,235 3106,742"/>
+                <TextEquiv>
+                    <Unicode>einzige Stück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_1358d21c" custom="readingOrder {index:5;} structure {type:default;}">
+                <Coords points="2875,248 2824,256 2853,349 2846,400 2846,411 2846,414 2846,418 2850,429 2889,497 2889,663 2961,656 3034,638 3048,609 3048,605 3048,602 3048,598 2990,432 2990,335 2990,331 2990,328 2943,230 2875,248"/>
+                <Baseline points="2876,251 2965,659"/>
+                <TextEquiv>
+                    <Unicode>Ackerland,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_57f88af8" custom="readingOrder {index:6;} structure {type:default;}">
+                <Coords points="2767,230 2720,237 2813,663 2850,663 2904,645 2875,342 2875,338 2828,216 2767,230"/>
+                <Baseline points="2768,232 2851,665"/>
+                <TextEquiv>
+                    <Unicode>alles andre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_a9030a1f" custom="readingOrder {index:7;} structure {type:default;}">
+                <Coords points="2835,627 2806,566 2795,548 2792,461 2723,475 2619,486 2651,753 2759,742 2821,731 2839,641 2835,627"/>
+                <Baseline points="2727,477 2762,746"/>
+                <TextEquiv>
+                    <Unicode>Gras.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_5b4a2688" custom="readingOrder {index:8;} structure {type:default;}">
+                <Coords points="4520,407 4505,497 4689,515 4693,515 4697,515 4700,515 4711,504 4722,493 4747,508 4794,530 4798,530 4801,530 4805,530 4848,512 4855,508 4949,512 4960,461 4964,400 4841,353 4837,353 4523,338 4520,407"/>
+                <Baseline points="4521,410 4964,465"/>
+                <TextEquiv>
+                    <Unicode>a) Chauſſée</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_ef9727f3" custom="readingOrder {index:9;} structure {type:default;}">
+                <Coords points="4534,551 4531,587 4834,620 4841,569 4841,497 4722,468 4718,468 4715,468 4711,468 4707,468 4682,490 4679,490 4596,468 4592,468 4588,468 4538,479 4534,551"/>
+                <Baseline points="4537,554 4843,573"/>
+                <TextEquiv>
+                    <Unicode>Brücke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_54084ced" custom="readingOrder {index:10;} structure {type:default;}">
+                <Coords points="4386,710 4383,800 4614,804 4617,804 4621,804 4635,796 4707,757 4982,786 4989,728 4989,631 4801,609 4758,580 4754,580 4751,580 4567,576 4563,576 4560,576 4556,576 4513,616 4509,616 4386,612 4386,710"/>
+                <Baseline points="4390,713 4990,729"/>
+                <TextEquiv>
+                    <Unicode>b) Zugbrücke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_900bc4ac" custom="readingOrder {index:11;} structure {type:default;}">
+                <Coords points="2875,908 2882,966 2943,951 2969,959 3030,973 3034,973 3037,973 3041,973 3044,973 3044,969 3066,948 3084,926 3192,915 3225,930 3268,955 3272,955 3275,955 3376,948 3380,948 3495,905 3528,890 3546,897 3611,926 3614,926 3618,926 3733,919 3737,919 3741,919 3802,872 3809,865 3917,858 3921,825 3910,768 3816,775 3806,771 3780,750 3777,750 3773,750 3769,750 3766,750 3719,768 3668,750 3665,750 3661,750 3658,750 3604,778 3567,796 3474,786 3427,778 3423,778 3420,778 3402,786 3358,811 3329,789 3319,782 3315,782 3311,782 3308,782 3304,782 3286,793 3228,822 3163,804 3160,804 3156,804 3153,804 3149,804 3149,807 3131,822 3098,800 3084,789 3080,789 3077,789 3073,789 2864,807 2875,908"/>
+                <Baseline points="2876,911 3925,828"/>
+                <TextEquiv>
+                    <Unicode>Früher ſtanden Eichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_58c805d5" custom="readingOrder {index:12;} structure {type:default;}">
+                <Coords points="2813,1078 2817,1128 3023,1114 3026,1114 3041,1110 3145,1070 3221,1088 3243,1092 3246,1092 3250,1092 3254,1092 3264,1085 3315,1056 3481,1060 3499,1060 3503,1060 3506,1060 3513,1056 3564,1034 3618,1045 3661,1052 3665,1052 3668,1052 3701,1038 3733,1020 3755,1031 3791,1045 3795,1045 3798,1045 3852,1038 3856,1038 3860,1038 3860,1034 3863,1034 3874,1016 3889,1002 4065,991 4076,995 4119,1016 4123,1016 4127,1016 4130,1016 4202,980 4202,955 4195,901 3953,912 3874,876 3871,876 3867,876 3802,887 3798,887 3795,887 3795,890 3741,937 3741,941 3676,944 3557,951 3499,912 3495,912 3492,912 3488,912 3416,915 3412,915 3333,941 3178,937 3174,937 3171,937 3167,937 3167,941 3127,977 3030,959 3026,959 3023,959 3019,959 2969,1006 2965,1006 2896,980 2893,980 2889,980 2886,980 2806,1013 2813,1078"/>
+                <Baseline points="2816,1080 4205,959"/>
+                <TextEquiv>
+                    <Unicode>oben und darum herum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b58d24e0" custom="readingOrder {index:13;} structure {type:default;}">
+                <Coords points="2828,1290 2979,1276 2983,1276 2987,1276 3026,1244 3055,1265 3059,1265 3062,1265 3066,1265 3091,1265 3163,1254 3167,1254 3286,1211 3344,1222 3347,1222 3351,1222 3355,1222 3355,1218 3369,1207 3398,1225 3402,1225 3405,1225 3409,1225 3412,1225 3416,1225 3564,1182 3600,1200 3604,1200 3607,1200 3611,1200 3712,1157 3889,1139 4004,1153 4008,1153 4011,1153 4015,1153 4018,1153 4069,1117 4152,1135 4152,1074 4141,1006 4047,991 4044,991 4040,991 3979,1024 3972,1027 3961,1027 3896,1009 3892,1009 3889,1009 3885,1009 3881,1009 3849,1038 3842,1042 3795,1042 3640,1038 3636,1038 3632,1038 3549,1067 3488,1088 3301,1088 3261,1092 3257,1092 3254,1092 3254,1096 3225,1117 3019,1139 2813,1139 2824,1233 2828,1290"/>
+                <Baseline points="2825,1236 4154,1077"/>
+                <TextEquiv>
+                    <Unicode>jetzt alles Gras und Torf;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_9c19e13d" custom="readingOrder {index:14;} structure {type:default;}">
+                <Coords points="3694,1132 3658,1161 3553,1161 3549,1161 3546,1161 3427,1215 3181,1225 3178,1225 3174,1225 3120,1272 3117,1272 3055,1283 3023,1258 3019,1258 3015,1258 3012,1258 3008,1258 2936,1294 2904,1280 2900,1280 2896,1280 2893,1280 2777,1334 2792,1395 2795,1431 2846,1453 2850,1453 2853,1453 2857,1453 3023,1384 3026,1384 3095,1406 3098,1406 3102,1406 3106,1406 3246,1344 3254,1341 3268,1341 3383,1341 3387,1341 3391,1341 3524,1290 3542,1287 3557,1287 3712,1290 3715,1290 3986,1240 3990,1240 3993,1240 4044,1197 4036,1161 4022,1103 3715,1125 3694,1132"/>
+                <Baseline points="2793,1399 4037,1163"/>
+                <TextEquiv>
+                    <Unicode>oben alles beackert, ſo zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b8882e79" custom="readingOrder {index:15;} structure {type:default;}">
+                <Coords points="3650,1503 3650,1543 3668,1557 3672,1557 3676,1557 3679,1557 3806,1543 3849,1539 3863,1546 3889,1568 3892,1568 3896,1568 3899,1568 4018,1554 4018,1503 4018,1417 3982,1399 3979,1399 3975,1399 3972,1399 3914,1417 3910,1417 3824,1399 3820,1399 3650,1409 3650,1503"/>
+                <Baseline points="3654,1507 4021,1504"/>
+                <TextEquiv>
+                    <Unicode>Wieſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_17c69b98" custom="readingOrder {index:16;} structure {type:default;}">
+                <Coords points="2702,1633 2694,1676 2900,1723 2904,1723 2907,1723 2911,1723 2943,1701 2947,1701 3052,1712 3059,1683 3070,1600 2990,1557 2987,1557 2983,1557 2929,1564 2871,1572 2846,1543 2839,1532 2835,1532 2835,1528 2832,1528 2828,1528 2716,1510 2702,1633"/>
+                <Baseline points="2704,1635 3061,1686"/>
+                <TextEquiv>
+                    <Unicode>Kertzlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_f334adb3" custom="readingOrder {index:17;} structure {type:default;}">
+                <Coords points="4628,1817 4592,1871 4671,1914 4682,1939 4700,1990 4700,1994 4704,1994 4704,1997 4707,1997 4834,2051 4884,1975 4946,1867 4859,1792 4855,1792 4852,1792 4798,1788 4776,1788 4736,1763 4733,1752 4726,1727 4726,1723 4726,1719 4722,1719 4722,1716 4718,1716 4715,1716 4711,1716 4686,1716 4628,1817"/>
+                <Baseline points="4629,1819 4885,1976"/>
+                <TextEquiv>
+                    <Unicode>Wieſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_d1b1d451" custom="readingOrder {index:18;} structure {type:default;}">
+                <Coords points="2940,2625 2929,2671 2940,2682 2943,2682 2943,2686 2947,2686 2951,2686 2954,2686 3041,2682 3055,2682 3062,2686 3174,2744 3178,2744 3181,2744 3308,2733 3319,2689 3333,2585 3279,2560 3275,2560 3272,2560 3185,2563 3178,2563 3174,2563 3135,2531 3131,2531 3127,2531 3124,2531 3055,2542 3012,2509 3008,2509 3005,2509 3001,2509 2997,2509 2954,2520 2940,2625"/>
+                <Baseline points="2943,2626 3322,2690"/>
+                <TextEquiv>
+                    <Unicode>Wieſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_d9c6ec32" custom="readingOrder {index:19;} structure {type:default;}">
+                <Coords points="5054,3021 5054,3018 5011,2974 5007,2960 4989,2888 4989,2884 4989,2881 4985,2881 4985,2877 4870,2794 4801,2873 4783,2888 4859,2996 4863,2996 4863,3000 4866,3000 4870,3000 4891,3003 4891,3028 4895,3079 4895,3082 4895,3086 4899,3086 4899,3090 4978,3144 5032,3090 5054,3046 5054,3021"/>
+                <Baseline points="4802,2875 5034,3091"/>
+                <TextEquiv>
+                    <Unicode>Wildberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_6ceacd8a" custom="readingOrder {index:20;} structure {type:default;}">
+                <Coords points="3838,3122 3795,3187 4044,3385 4047,3385 4051,3385 4055,3385 4116,3382 4181,3421 4220,3367 4267,3284 4047,3147 4033,3122 4004,3075 4000,3075 4000,3072 3997,3072 3896,3025 3838,3122"/>
+                <Baseline points="3839,3126 4221,3369"/>
+                <TextEquiv>
+                    <Unicode>Wieſe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_2b5cf5bd" custom="readingOrder {index:21;} structure {type:default;}">
+                <Coords points="3355,3901 3636,3876 3640,3876 3687,3915 3690,3915 3694,3915 3697,3915 3701,3915 3773,3876 3910,3890 3914,3890 3917,3890 3921,3890 3921,3887 3925,3887 3935,3872 3975,3894 3979,3894 3982,3894 4278,3865 4282,3865 4376,3829 4480,3840 4484,3840 4487,3840 4491,3840 4534,3807 4841,3807 4841,3804 4845,3804 4848,3804 4920,3760 4989,3789 4992,3789 4996,3789 5000,3789 5003,3789 5003,3786 5061,3728 5057,3681 5032,3598 4982,3631 4931,3609 4928,3609 4924,3609 4920,3609 4891,3613 4754,3645 4700,3634 4693,3634 4689,3634 4686,3634 4682,3634 4679,3638 4628,3667 4545,3656 4542,3656 4538,3656 4534,3656 4422,3724 4080,3757 4022,3739 4018,3739 4015,3739 4011,3739 3935,3771 3784,3732 3762,3728 3759,3728 3755,3728 3751,3728 3730,3739 3658,3782 3347,3782 3351,3825 3355,3901"/>
+                <Baseline points="3354,3826 4096,3878 5059,3685"/>
+                <TextEquiv>
+                    <Unicode>Der Erdwall iſt 20 Fuß hoch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_a1e4bc11" custom="readingOrder {index:22;} structure {type:default;}">
+                <Coords points="4159,3865 4123,3872 4119,3872 4098,3879 3964,3869 3946,3869 3910,3865 3910,3869 3892,3887 3780,3887 3658,3847 3658,3847 3622,3847 3600,3843 3546,3858 3261,3836 3264,3912 3264,3959 3459,3998 3463,3998 3466,3998 3539,3966 3723,3995 3726,3995 3730,3995 3733,3995 3788,3951 3889,3991 3892,3991 3896,3991 4000,3973 4098,3988 4101,3988 4271,3984 4275,3984 4336,3959 4437,3980 4441,3980 4444,3980 4448,3980 4509,3941 4639,3955 4643,3955 4646,3955 4689,3933 4726,3955 4729,3955 4733,3955 4736,3955 5039,3923 5039,3876 5029,3800 4884,3818 4837,3804 4834,3804 4830,3804 4827,3804 4650,3858 4491,3811 4487,3811 4484,3811 4480,3811 4325,3869 4174,3861 4159,3865"/>
+                <Baseline points="3266,3913 4145,3969 5040,3878"/>
+                <TextEquiv>
+                    <Unicode>Durchmeſſer oben 100 Schritt, alſo ſehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_708d2420" custom="readingOrder {index:23;} structure {type:default;}">
+                <Coords points="4765,3988 4765,4002 4899,3998 4902,3998 4967,3966 4967,3948 4953,3894 4751,3923 4765,3988"/>
+                <Baseline points="4766,3991 4970,3951"/>
+                <TextEquiv>
+                    <Unicode>groß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>FONTANE.
+Dieses Buch hat 61 Blatt.
+Wildberg.
+ſagen das
+einzige Stück
+Ackerland,
+alles andre
+Gras.
+a) Chauſſée
+Brücke
+b) Zugbrücke
+Früher ſtanden Eichen
+oben und darum herum,
+jetzt alles Gras und Torf;
+oben alles beackert, ſo zu
+Wieſe
+Kertzlin
+Wieſe
+Wieſe
+Wildberg.
+Wieſe,
+Der Erdwall iſt 20 Fuß hoch
+Durchmeſſer oben 100 Schritt, alſo ſehr
+groß</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

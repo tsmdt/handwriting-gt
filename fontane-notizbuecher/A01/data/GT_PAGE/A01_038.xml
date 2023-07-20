@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T10:18:52</Created>
+        <LastChange>2023-07-19T13:11:13.318+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504695" pageId="57539621" pageNr="38" tsid="130074965" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=FGPLEYLROBIQFAMCEKKMEQPR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHAKQULBHZAMHFAUDGYCGPKO" imageId="46569055"/>
+    </Metadata>
+    <Page imageFilename="A01_038.jpg" imageWidth="5563" imageHeight="4328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689766021829" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_0e093d5f"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_07957456"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_0e093d5f" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="3566,230 4148,278 4273,365 4283,507 3364,516 3374,298 3566,230"/>
+            <TextLine id="eSc_line_1c6e61b4" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="4055,303 3979,346 3878,295 3874,295 3871,295 3749,317 3606,235 3603,235 3495,270 3492,270 3488,270 3376,331 3380,472 3380,501 3492,519 3495,519 3578,504 3640,494 3654,504 3672,519 3676,519 3679,519 3683,519 3806,504 3957,490 4011,508 4033,515 4036,515 4040,515 4253,508 4253,465 4246,349 4242,349"/>
+                <Baseline points="3383,476 4255,467"/>
+                <TextEquiv>
+                    <Unicode>Bechlin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_07957456" custom="readingOrder {index:1;} structure {type:text;}">
+            <Coords points="4997,211 5091,250 5110,363 4988,459 4891,411 4882,269 4901,230 4997,211"/>
+            <TextLine id="eSc_line_d0c38c70" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="5061,238 5025,223 4985,212 4949,220 4913,227 4928,349 4935,440 5104,458 5101,335 5090,245 5061,238"/>
+                <Baseline points="4931,353 5102,339"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

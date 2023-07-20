@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T10:18:52</Created>
+        <LastChange>2023-07-19T13:13:57.145+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504695" pageId="57539639" pageNr="44" tsid="130075533" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=JHZVYEHHJOFZEWVGSUHPTCEW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDUEWMWXMDMVCMIHIISWBMSL" imageId="46569073"/>
+    </Metadata>
+    <Page imageFilename="A01_044.jpg" imageWidth="5563" imageHeight="4327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689766021835" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_38b29c03"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_4d7d824b"/>
+                <RegionRefIndexed index="2" regionRef="eSc_textblock_6cf45c1d"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_38b29c03" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="4370,307 4428,394 4428,459 4389,461 4428,526 4307,622 3484,622 3484,764 3278,764 3278,637 3132,637 3247,584 3315,288 4074,269"/>
+            <TextLine id="eSc_line_6d9779c5" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="3297,486 3350,785 3781,659 3785,659 3788,659 3846,637 3853,637 3857,637 3907,655 3911,655 3915,655 3972,504 3982,504 3986,504 4029,522 4033,522 4036,522 4040,522 4044,522 4044,519 4062,504 4073,493 4181,493 4192,501 4210,515 4210,519 4213,519 4217,519 4220,519 4340,497 4340,468 4332,338 4170,331 4083,292 4080,292 4076,292 4073,292 4069,292 4069,295 4018,338 3972,382 3802,382 3737,353 3733,353 3730,353 3726,353 3723,353 3723,356 3719,356 3701,382 3625,385 3578,342 3535,302 3535,299 3531,299 3528,299 3524,299 3365,302 3362,302 3308,331 3293,375"/>
+                <Baseline points="3298,488 4341,471"/>
+                <TextEquiv>
+                    <Unicode>Gentzrode</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_4d7d824b" custom="readingOrder {index:1;} structure {type:text;}">
+            <Coords points="3863,3125 4534,3153 4649,3230 4594,3259 4690,3336 4784,3355 4832,3516 4668,3603 4219,3632 3995,3689 3555,3689 3334,3651 3286,3545 3315,3134 3363,3096 3654,3076"/>
+            <TextLine id="eSc_line_9ae0551e" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="4459,3151 4422,3147 4386,3147 4350,3144 4314,3144 4303,3144 4278,3155 4220,3183 4051,3183 3972,3165 3860,3147 3856,3147 3852,3147 3849,3147 3816,3173 3795,3187 3705,3187 3679,3176 3564,3133 3560,3133 3373,3133 3369,3133 3365,3133 3362,3133 3322,3162 3304,3238 3308,3277 3308,3335 3459,3339 3463,3339 3466,3339 3488,3331 3549,3313 3578,3331 3596,3339 3600,3339 3604,3339 3607,3339 3636,3328 3708,3302 3762,3324 3795,3339 3798,3339 3802,3339 3899,3320 4036,3299 4116,3317 4192,3335 4195,3335 4199,3335 4260,3313 4303,3299 4491,3306 4495,3270 4487,3151 4459,3151"/>
+                <Baseline points="3309,3281 4498,3271"/>
+                <TextEquiv>
+                    <Unicode>Seitenfront</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_622e7028" custom="readingOrder {index:1;} structure {type:default;}">
+                <Coords points="4816,3486 4794,3411 4758,3432 4711,3454 4560,3436 4542,3436 4538,3436 4513,3439 4354,3457 4321,3443 4293,3429 4289,3429 4285,3429 4282,3429 4278,3429 4278,3432 4264,3443 4246,3461 4109,3461 4083,3450 3982,3393 3979,3393 3975,3393 3726,3396 3723,3396 3661,3418 3542,3400 3539,3400 3535,3400 3531,3400 3434,3468 3427,3472 3301,3472 3304,3522 3304,3558 3380,3573 3383,3573 3387,3573 3423,3558 3466,3544 3567,3558 3578,3558 3582,3558 3593,3558 3730,3540 3759,3558 3798,3584 3802,3584 3806,3584 3809,3584 3813,3584 3874,3558 3903,3544 3928,3558 3997,3595 4000,3595 4004,3598 4188,3598 4188,3595 4192,3595 4289,3555 4343,3533 4451,3533 4473,3555 4509,3587 4509,3591 4513,3591 4516,3591 4520,3591 4606,3587 4610,3587 4671,3555 4682,3548 4697,3555 4747,3573 4751,3573 4754,3573 4758,3573 4841,3551 4841,3508 4837,3425 4812,3411 4816,3486"/>
+                <Baseline points="3305,3526 3615,3524 3671,3526 4845,3512"/>
+                <TextEquiv>
+                    <Unicode>nach Ruppin zu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_6cf45c1d" custom="readingOrder {index:2;} structure {type:text;}">
+            <Coords points="5043,201 5062,305 5024,372 4834,372 4834,221 4913,182"/>
+            <TextLine id="eSc_line_ca6a1b7b" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="5043,320 5018,248 4978,241 4971,234 4924,194 4920,194 4917,194 4913,194 4859,205 4859,209 4866,342 4866,353 4924,371 4928,371 4931,371 5079,346 5079,331 5072,259 5047,252 5043,320"/>
+                <Baseline points="4868,346 5080,332"/>
+                <TextEquiv>
+                    <Unicode>43</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

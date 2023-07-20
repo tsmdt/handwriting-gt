@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T10:18:52</Created>
+        <LastChange>2023-07-19T13:14:12.041+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504695" pageId="57539642" pageNr="45" tsid="130075628" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=ZFZOXWOGCLYHLIOWANFEVZZF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OFBPRHELQXQUOSWHFHSFNMES" imageId="46569076"/>
+    </Metadata>
+    <Page imageFilename="A01_045.jpg" imageWidth="5563" imageHeight="4327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689766021836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_971da4a9"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_922f5637"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_971da4a9" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="5024,201 5072,343 4937,382 4844,362 4853,211 4901,192"/>
+            <TextLine id="eSc_line_be28ab13" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="5054,306 5032,248 5029,248 5007,234 4946,194 4946,194 4910,194 4881,198 4873,201 4873,338 4873,396 5072,367 5072,338 5072,248 5054,248 5054,306"/>
+                <Baseline points="4875,339 5073,339"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_922f5637" custom="readingOrder {index:1;} structure {type:text;}">
+            <Coords points="4676,878 4676,3113 5144,3113 5144,878"/>
+            <TextLine id="eSc_line_c6a0f87a" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="4758,1543 4722,1665 4722,1669 4722,1673 4722,1676 4772,1806 4772,1813 4772,1828 4740,2141 4740,2145 4754,2228 4754,2232 4754,2235 4758,2235 4790,2268 4790,2271 4765,2444 4765,2448 4765,2451 4765,2455 4801,2495 4805,2498 4805,2570 4873,2570 4942,2563 4938,2466 4938,2462 4938,2459 4935,2455 4884,2394 4884,2318 4917,2257 4931,2235 4931,2232 4931,2228 4931,2224 4924,2127 4924,2123 4924,2120 4906,2098 4881,2066 4895,1994 4899,1972 4899,1968 4899,1965 4899,1961 4895,1961 4891,1957 4866,1932 4863,1867 4884,1842 4888,1835 4891,1835 4891,1831 4891,1828 4895,1828 4895,1723 4891,1719 4891,1716 4891,1712 4870,1676 4859,1658 4859,1543 4830,1543 4758,1543"/>
+                <Baseline points="4875,2574 4834,1544"/>
+                <TextEquiv>
+                    <Unicode>Hauptfront</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_1d4beb75" custom="readingOrder {index:1;} structure {type:default;}">
+                <Coords points="5075,2899 5075,2747 5075,2744 5101,2697 5101,2693 5101,2689 5075,2430 5075,2394 5079,2347 5094,2145 5094,2141 5079,2076 5079,2069 5079,2066 5101,2022 5101,2019 5101,2015 5101,2012 5079,1954 5075,1936 5083,1896 5101,1781 5104,1781 5104,1669 5101,1665 5101,1662 5101,1658 5083,1637 5075,1629 5083,1611 5101,1568 5101,1564 5104,1564 5104,1449 5101,1445 5101,1442 5101,1438 5097,1438 5086,1420 5075,1413 5086,1384 5101,1337 5101,1334 5104,1334 5104,1229 5101,1225 5101,1222 5101,1218 5086,1200 5075,1182 5086,973 5057,973 4971,973 4931,1193 4931,1197 4931,1200 4971,1341 4971,1344 4899,1424 4899,1427 4899,1431 4899,1435 4899,1557 4899,1561 4899,1564 4902,1564 4917,1582 4899,1608 4899,1611 4899,1615 4899,1619 4899,2062 4899,2066 4899,2069 4902,2069 4967,2134 4974,2141 4974,2300 4964,2314 4924,2412 4924,2415 4924,2419 4924,2423 4964,2498 4971,2513 4964,2527 4931,2603 4931,2607 4931,2610 4931,2614 4931,2617 4935,2617 4956,2639 4964,2704 4971,2783 4964,2895 5057,2899 5075,2899"/>
+                <Baseline points="5059,2900 5059,977"/>
+                <TextEquiv>
+                    <Unicode>nach der Landſtraße zu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

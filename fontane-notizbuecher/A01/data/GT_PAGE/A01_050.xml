@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T10:18:52</Created>
+        <LastChange>2023-07-19T13:15:31.937+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504695" pageId="57539660" pageNr="50" tsid="130075863" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=ZSBRHHRVYQGEJFSKFJQFGBUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMDEXCETXMVQCMNBITEXZOUU" imageId="46569094"/>
+    </Metadata>
+    <Page imageFilename="A01_050.jpg" imageWidth="5563" imageHeight="4327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689766021841" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_7c482b4f"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_860a43d9"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_7c482b4f" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="4409,326 4485,355 4495,603 4553,670 4505,721 4485,949 4434,984 4083,984 4053,959 3526,901 3507,750 3392,699 3372,536 3420,346 3526,298"/>
+            <TextLine id="eSc_line_a49ce4c0" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="3405,501 3405,562 3448,544 3477,562 3492,573 3495,573 3499,573 3503,573 3506,573 3546,562 3618,544 3658,562 3719,594 3723,594 3726,598 3935,598 3935,594 3939,594 3943,594 3979,562 4000,548 4174,548 4206,562 4267,598 4271,598 4275,598 4278,598 4347,566 4513,566 4516,508 4516,385 4336,342 4332,342 4329,342 4231,385 4206,400 3972,400 3961,389 3932,364 3928,364 3925,364 3921,364 3831,382 3802,360 3802,356 3798,356 3795,356 3791,356 3788,356 3719,382 3632,285 3628,285 3524,285 3520,285 3516,285 3409,385 3405,400"/>
+                <Baseline points="3406,502 4520,509"/>
+                <TextEquiv>
+                    <Unicode>Fretzdorff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_97ccc73d" custom="readingOrder {index:1;} structure {type:default;}">
+                <Coords points="4487,735 4340,710 4336,710 4332,710 4329,710 4296,731 4199,721 4195,721 4192,721 4188,721 4159,742 4134,760 3914,760 3892,746 3842,710 3838,710 3834,710 3733,710 3730,710 3560,746 3560,840 3560,876 3614,905 3618,905 3622,905 3625,905 3654,894 3690,926 3694,926 3697,926 3701,926 3705,926 3798,890 3824,879 3943,879 3964,897 3986,915 3986,919 3990,919 3993,919 3997,919 4000,919 4062,901 4141,879 4177,908 4199,926 4202,926 4206,926 4210,926 4498,923 4498,840 4498,807 4487,735"/>
+                <Baseline points="3562,842 4499,842"/>
+                <TextEquiv>
+                    <Unicode>(Priegnitz.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_860a43d9" custom="readingOrder {index:1;} structure {type:text;}">
+            <Coords points="5043,201 5062,314 5024,401 4901,411 4824,343 4844,211 4901,182"/>
+            <TextLine id="eSc_line_347af981" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="5061,295 5029,201 4992,194 4992,194 4956,191 4920,183 4884,191 4881,306 4873,414 5065,411 5072,313 5072,212 5065,209 5061,295"/>
+                <Baseline points="4882,310 5073,317"/>
+                <TextEquiv>
+                    <Unicode>49</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

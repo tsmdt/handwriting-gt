@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-07-19T10:18:52</Created>
+        <LastChange>2023-07-19T12:55:54.708+02:00</LastChange>
+        <Comments/>
+        <TranskribusMetadata docId="1504695" pageId="57539512" pageNr="14" tsid="130073962" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=VETOBLQIYJLQALDTMZMLIMJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YKRHXLECRZHIOBUGJYYKATUO" imageId="46568946"/>
+    </Metadata>
+    <Page imageFilename="A01_014.jpg" imageWidth="5563" imageHeight="4328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1689766021805" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_9a247226"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_81444a5f"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_9a247226" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="4985,192 5005,269 5005,324 4899,401 4824,391 4776,324 4824,201 4879,182"/>
+            <TextLine id="eSc_line_5a6a231f" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="4896,182 4884,182 4855,209 4853,211 4827,211 4831,312 4831,336 4959,336 4959,307 4954,197 4904,182 4896,182"/>
+                <Baseline points="4831,312 4959,307"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_81444a5f" custom="readingOrder {index:1;} structure {type:text;}">
+            <Coords points="4427,240 4752,343 4771,417 4704,542 4302,596 4254,673 4273,767 4235,834 3557,843 3509,795 3518,557 3477,516 3432,497 3230,545 3191,488 3201,259 3275,211"/>
+            <TextLine id="eSc_line_88a95a42" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="4740,346 4415,335 4408,328 4343,266 4343,263 4340,263 4336,263 4332,263 4148,277 4145,277 4083,306 4051,320 4029,302 3979,259 3975,259 3972,259 3968,259 3964,259 3896,295 3852,313 3741,284 3737,284 3697,245 3697,241 3694,241 3690,241 3549,238 3546,238 3542,238 3463,266 3459,266 3456,266 3355,230 3351,230 3347,230 3218,248 3218,389 3214,483 3301,486 3304,486 3308,486 3319,483 3452,418 3564,418 3658,429 3694,465 3694,468 3697,468 3701,468 3705,468 3708,468 3791,425 3910,472 3925,476 3928,476 3932,476 3935,476 3946,472 4000,443 4040,468 4105,515 4109,515 4112,515 4231,522 4235,526 4314,526 4314,522 4318,522 4321,522 4422,461 4430,458 4466,461 4635,479 4639,479 4744,454 4747,443 4747,353 4740,346"/>
+                <Baseline points="3221,390 4751,445"/>
+                <TextEquiv>
+                    <Unicode>In der Kirchen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_96dac161" custom="readingOrder {index:1;} structure {type:default;}">
+                <Coords points="3553,656 3557,779 3640,779 3643,779 3647,779 3647,775 3654,771 3697,732 3820,750 3946,764 3950,764 3953,764 3957,764 4018,721 4036,706 4166,699 4163,623 4156,541 3950,530 3946,530 3943,530 3939,530 3903,555 3871,573 3755,566 3665,559 3661,559 3546,577 3553,656"/>
+                <Baseline points="3555,659 4164,627"/>
+                <TextEquiv>
+                    <Unicode>gruft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
