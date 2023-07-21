@@ -173,7 +173,7 @@ im Schein der Abend‐</Unicode>
         </TextRegion>
         <TextRegion id="eSc_textblock_9a7cd1ca" custom="readingOrder {index:1;} structure {type:text;}">
             <Coords points="5014,270 5054,410 5014,1983 5044,3604 5014,3975 4693,4035 2944,4075 2774,3985 2874,3925 2854,3807 2809,3793 2809,3774 2854,3754 2834,3637 2809,3634 2809,2387 2834,2372 2834,2314 2809,2282 2809,2196 2864,2161 2824,2004 2874,1961 2894,1781 2884,1513 2844,1470 2874,1302 2824,1249 2864,1189 2824,1009 2824,460 2914,300 4834,255"/>
-            <TextLine id="eSc_line_d5b32c23" custom="readingOrder {index:0;}">
+            <TextLine id="eSc_line_d5b32c23" custom="readingOrder {index:0;} structure {type:default;}">
                 <Coords points="4977,266 4950,263 4860,259 4860,315 4849,390 4886,390 4924,390 4962,390 4988,390 4995,330 4995,266 4977,266"/>
                 <Baseline points="4861,316 4997,332"/>
                 <TextEquiv>

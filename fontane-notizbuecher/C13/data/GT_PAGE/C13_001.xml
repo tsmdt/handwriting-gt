@@ -16,14 +16,14 @@
         </ReadingOrder>
         <TextRegion id="eSc_textblock_0d1de4fa" custom="readingOrder {index:0;} structure {type:text;}">
             <Coords points="599,976 589,1202 547,1243 415,1243 373,1191 373,1017 415,934 485,924"/>
-            <TextLine id="eSc_line_4198d7f7" custom="readingOrder {index:0;}">
+            <TextLine id="eSc_line_4198d7f7" custom="readingOrder {index:0;} structure {type:default;}">
                 <Coords points="580,969 541,954 502,934 463,927 440,927 413,942 385,985 389,1036 389,1071 596,1078 603,1032 588,942 580,942 580,969"/>
                 <Baseline points="390,1039 606,1035"/>
                 <TextEquiv>
                     <Unicode>C.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="eSc_line_a0616cd7" custom="readingOrder {index:1;}">
+            <TextLine id="eSc_line_a0616cd7" custom="readingOrder {index:1;} structure {type:default;}">
                 <Coords points="424,1199 424,1219 561,1242 565,1191 557,1098 490,1078 487,1078 483,1078 479,1078 416,1102 424,1199"/>
                 <Baseline points="426,1203 567,1194"/>
                 <TextEquiv>
@@ -33,35 +33,35 @@
         </TextRegion>
         <TextRegion id="eSc_textblock_5ee8d267" custom="readingOrder {index:1;} structure {type:text;}">
             <Coords points="717,1437 717,2465 2354,2465 2354,1437"/>
-            <TextLine id="eSc_line_d03c91db" custom="readingOrder {index:0;}">
+            <TextLine id="eSc_line_d03c91db" custom="readingOrder {index:0;} structure {type:default;}">
                 <Coords points="849,1783 1005,1729 1110,1729 1169,1760 1172,1760 1176,1760 1180,1760 1184,1760 1188,1760 1192,1756 1258,1717 1359,1717 1426,1737 1469,1752 1472,1752 1476,1752 1480,1752 1484,1752 1484,1748 1504,1733 1515,1721 1593,1725 1788,1737 1792,1737 1850,1733 1854,1733 1858,1733 1858,1729 1889,1702 1901,1686 1944,1686 1956,1698 1975,1709 1975,1713 1979,1713 1983,1713 1987,1713 1991,1713 2030,1690 2030,1667 2018,1441 1827,1461 1815,1453 1792,1430 1792,1426 1788,1426 1784,1426 1780,1426 1628,1434 1624,1434 1550,1469 1546,1469 1543,1469 1472,1449 1469,1449 1465,1449 1461,1449 1398,1476 1379,1484 1356,1480 1270,1457 1266,1457 1262,1457 1079,1496 1056,1500 1048,1496 1017,1469 1013,1469 1009,1469 1005,1469 841,1667 845,1725"/>
                 <Baseline points="849,1728 2032,1670"/>
                 <TextEquiv>
                     <Unicode>1875.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="eSc_line_5fe20e0f" custom="readingOrder {index:1;}">
+            <TextLine id="eSc_line_5fe20e0f" custom="readingOrder {index:1;} structure {type:default;}">
                 <Coords points="1204,1951 1204,2009 1363,2017 1367,2017 1617,1978 1617,1931 1605,1803 1375,1795 1371,1795 1297,1807 1293,1807 1289,1807 1289,1811 1285,1811 1270,1834 1266,1842 1196,1842 1204,1951"/>
                 <Baseline points="1207,1953 1621,1935"/>
                 <TextEquiv>
                     <Unicode>IV.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="eSc_line_27c1e442" custom="readingOrder {index:2;}">
+            <TextLine id="eSc_line_27c1e442" custom="readingOrder {index:2;} structure {type:default;}">
                 <Coords points="732,2114 732,2138 1449,2150 1453,2150 1457,2150 1461,2150 1504,2122 1519,2114 1605,2114 1617,2118 1648,2142 1652,2142 1656,2142 1659,2142 1663,2142 1667,2142 1695,2118 1714,2134 1718,2134 1722,2134 1726,2134 1917,2114 1952,2111 1956,2111 2018,2142 2022,2142 2026,2142 2030,2142 2092,2111 2127,2126 2131,2126 2135,2126 2291,2103 2291,2091 2271,1920 2193,1978 1995,1924 1987,1924 1983,1924 1765,1924 1761,1924 1757,1924 1753,1924 1749,1928 1659,2005 1500,2005 1430,1974 1426,1974 1422,1974 1418,1974 1414,1974 1359,2009 1110,2009 1040,1963 1036,1963 1032,1963 1028,1963 1024,1963 989,1978 904,1943 896,1939 892,1939 888,1939 728,1943 732,2114"/>
                 <Baseline points="734,2116 2292,2094"/>
                 <TextEquiv>
                     <Unicode>Schweiz. Ober=</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="eSc_line_0f2938cc" custom="readingOrder {index:3;}">
+            <TextLine id="eSc_line_0f2938cc" custom="readingOrder {index:3;} structure {type:default;}">
                 <Coords points="720,2282 720,2298 2295,2266 2295,2255 2287,2177 2166,2177 2006,2114 2002,2114 1866,2114 1862,2114 1858,2114 1671,2188 1667,2192 1508,2192 1359,2192 1309,2153 1305,2153 1301,2153 1172,2142 1169,2142 1165,2142 1161,2142 1067,2200 981,2134 978,2134 974,2134 970,2134 798,2138 794,2138 791,2138 791,2142 736,2188 720,2282"/>
                 <Baseline points="724,2284 1991,2256 2296,2256"/>
                 <TextEquiv>
                     <Unicode>Italien.. Mün=</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="eSc_line_36b11360" custom="readingOrder {index:4;}">
+            <TextLine id="eSc_line_36b11360" custom="readingOrder {index:4;} structure {type:default;}">
                 <Coords points="1995,2259 1991,2259 1897,2270 1823,2282 1749,2278 1621,2262 1613,2266 1574,2266 1558,2282 1527,2301 1320,2290 1246,2286 1243,2286 1239,2286 1219,2294 1180,2305 1157,2294 1118,2274 1114,2274 1106,2274 1067,2274 1028,2274 989,2274 950,2274 911,2278 892,2278 872,2290 876,2395 876,2520 2127,2508 2131,2383 2115,2266 2065,2286 2022,2270 1998,2259 1995,2259"/>
                 <Baseline points="880,2398 2133,2385"/>
                 <TextEquiv>

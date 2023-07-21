@@ -15,7 +15,7 @@
         </ReadingOrder>
         <TextRegion id="eSc_textblock_3e7b9e84" custom="readingOrder {index:0;} structure {type:text;}">
             <Coords points="4972,380 5034,440 5024,538 4826,568 4826,410 4972,380"/>
-            <TextLine id="eSc_line_a7ca6c10" custom="readingOrder {index:0;}">
+            <TextLine id="eSc_line_a7ca6c10" custom="readingOrder {index:0;} structure {type:default;}">
                 <Coords points="4864,522 4864,571 5003,586 5007,518 4999,420 4924,409 4920,409 4916,409 4860,432 4864,522"/>
                 <Baseline points="4867,525 5009,519"/>
                 <TextEquiv>

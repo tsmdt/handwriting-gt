@@ -165,7 +165,7 @@ eſſen fällt aus.</Unicode>
         </TextRegion>
         <TextRegion id="eSc_textblock_e78399e7" custom="readingOrder {index:1;} structure {type:text;}">
             <Coords points="5004,280 5034,310 5074,1069 5014,2021 5074,2602 5024,2985 5024,4005 4834,4045 3851,4085 2984,4085 2894,4062 2894,4051 2944,4045 2912,4025 2894,4025 2894,335 3074,280"/>
-            <TextLine id="eSc_line_2fd66209" custom="readingOrder {index:0;}">
+            <TextLine id="eSc_line_2fd66209" custom="readingOrder {index:0;} structure {type:default;}">
                 <Coords points="5010,293 4973,281 4935,281 4898,281 4860,281 4860,356 4856,413 5014,409 5018,364 5018,300 5010,293"/>
                 <Baseline points="4861,360 5020,366"/>
                 <TextEquiv>

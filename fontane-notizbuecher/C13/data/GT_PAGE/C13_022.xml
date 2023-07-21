@@ -124,7 +124,7 @@
         </TextRegion>
         <TextRegion id="eSc_textblock_b92c4424" custom="readingOrder {index:1;} structure {type:text;}">
             <Coords points="4899,310 5044,340 5034,518 4974,568 4856,568 4816,518 4826,340 4899,310"/>
-            <TextLine id="eSc_line_c68968a2" custom="readingOrder {index:0;}">
+            <TextLine id="eSc_line_c68968a2" custom="readingOrder {index:0;} structure {type:default;}">
                 <Coords points="4838,484 4834,529 4905,522 4913,526 4931,541 4935,541 4939,541 4943,541 4947,541 5014,514 5018,499 5022,379 4980,375 4977,368 4928,323 4928,319 4924,319 4920,319 4916,319 4913,319 4845,338 4838,484"/>
                 <Baseline points="4839,485 5020,502"/>
                 <TextEquiv>
