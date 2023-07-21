@@ -1,5 +1,5 @@
 # Handwriting-GT ✍️
-A collection of handwritten ground truth data sets for HTR training.
+A collection of handwritten ground truth for HTR training.
 
 # About 
 This collection is based on various manuscript editions of the Digital Humanities in order to provide the edited texts (transcriptions) as ground truth for training HTR models.
