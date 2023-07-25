@@ -25,7 +25,7 @@ Download images using the bash script `download_imgs.sh` in each data set folder
 Example: `Sammlung` (edition) -> `Sam̄lung` (ground truth)
 
 
-## faustedition
+## Faustedition
 | Folder | Source | Pages | Lines | License | 
 |------|--------|-------|-------|---------|
 |gsa_389889|[faustedition](https://github.com/faustedition/faust-xml)|8|230|CC BY-NC-SA 4.0|
