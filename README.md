@@ -20,7 +20,7 @@ Download images using the bash script `download_imgs.sh` in each data set folder
 
 **Source:** [Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke.](https://fontane-nb.dariah.eu/index.html)
 
-**Transcription guidlines:** The edition normalised the occurences of `combining macron ¯` with the `m` and `n` to `mm` and `nn`. These normalisations were resolved in regards to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html). 
+**Transcription guidlines:** The edition normalised the occurences of `combining macron ¯` with `m` and `n` to `mm` and `nn`. These normalisations were resolved in regards to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html). 
 
 Example: `Sammlung` (edition) -> `Sam̄lung` (ground truth)
 
