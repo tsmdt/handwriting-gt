@@ -25,7 +25,7 @@ Download images using the bash script `download_imgs.sh` in each data set folder
 
 **Source**: [Johann Wolfgang Goethe: Faust. Historisch-kritische Edition. Herausgegeben von Anne Bohnenkamp, Silke Henke und Fotis Jannidis unter Mitarbeit von Gerrit Brüning, Katrin Henzel, Christoph Leijser, Gregor Middell, Dietmar Pravida, Thorsten Vitt und Moritz Wissenbach.](https://faustedition.net/)
 
-**Transcription guidlines:** The following normalisations were resolved in order to retaregards to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html).
+**Transcription guidlines:** The following normalisations were resolved with respect to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html):
 
 - Round brackets: `(` and `)` (edition) → `/:` and `:/` (ground truth)
 - Hyphens: `-` (edition) → `=` (ground truth)
@@ -41,7 +41,7 @@ Download images using the bash script `download_imgs.sh` in each data set folder
 
 **Source:** [Theodor Fontane: Notizbücher. Digitale genetisch-kritische und kommentierte Edition. Hrsg. von Gabriele Radecke.](https://fontane-nb.dariah.eu/index.html)
 
-**Transcription guidlines:** The following normalisations were resolved in order to retaregards to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html).
+**Transcription guidlines:** The following normalisations were resolved with respect to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html):
 
 - `Sammlung` (edition) → `Sam̄lung` (ground truth)
 
@@ -55,6 +55,6 @@ Download images using the bash script `download_imgs.sh` in each data set folder
 
 **Source:** [August Wilhelm Schlegel: Digitale Edition der Korrespondenz. Hg. von Jochen Strobel und Claudia Bamberg. Dresden, Marburg, Trier 2014–2020.](https://august-wilhelm-schlegel.de)
 
-**Transcription guidlines:** The following normalisations were resolved in order to retaregards to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html).
+**Transcription guidlines:** The following normalisations were resolved with respect to [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html):
 
 - round `s` (edition) → long `ſ` (ground truth)
