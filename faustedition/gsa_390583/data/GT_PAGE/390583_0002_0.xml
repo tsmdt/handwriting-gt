@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2023-07-22T19:26:28.392118+00:00</Created>
+        <LastChange>2023-07-22T19:26:28.392157+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="390583_0002_0.jpg" imageWidth="4096" imageHeight="6144">
+
+    
+    <TextRegion id="eSc_textblock_1bf7a61c"  custom="structure {type:text;}">
+      <Coords points="1614,1747 2699,1761 2754,1921 2713,2017 2467,2030 1474,1949 1474,1788 1614,1747"/>
+      
+      
+      <TextLine id="eSc_line_d73c9e7d" custom="structure {type:default;}">
+        <Coords points="2710,1822 2348,1836 2327,1829 2228,1785 2225,1785 2222,1785 2143,1788 2140,1788 2136,1788 2095,1826 2037,1788 2034,1788 2030,1788 1843,1788 1839,1788 1836,1788 1710,1839 1703,1839 1634,1836 1590,1795 1587,1795 1583,1795 1580,1795 1576,1795 1573,1795 1573,1798 1529,1843 1491,1843 1495,1918 1495,1979 1658,1949 1675,1962 1679,1962 1682,1962 1686,1962 1809,1945 1839,1969 1843,1969 1846,1969 1850,1969 1853,1969 1856,1969 1856,1966 1884,1945 2082,1945 2177,1969 2181,1969 2184,1969 2187,1969 2245,1945 2334,1986 2368,2003 2372,2003 2375,2003 2723,1986 2723,1911 2713,1829 2710,1822"/>
+        <Baseline points="1495,1918 2723,1911"/>
+        <TextEquiv>
+          <Unicode>Faust&#x27;s Monolog.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_b8b1305d"  custom="structure {type:text;}">
+      <Coords points="3297,532 3464,600 3409,692 3208,679 3208,573 3297,532"/>
+      
+      
+      <TextLine id="eSc_line_6ff02f60" custom="structure {type:default;}">
+        <Coords points="3396,573 3372,563 3225,566 3225,651 3225,747 3409,709 3409,651 3406,573 3396,573"/>
+        <Baseline points="3225,651 3409,651"/>
+        <TextEquiv>
+          <Unicode>64.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>escriptorium</Creator>
+        <Created>2023-08-01T09:33:05</Created>
+        <LastChange>2023-08-01T11:41:57.892+02:00</LastChange>
+        <Comments></Comments>
+        <TranskribusMetadata docId="1517807" pageId="58303027" pageNr="1" tsid="131663402" status="IN_PROGRESS" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=BHFVOSJQIKGOMSPNQSDFHSKJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EPDOWGATYFKJVEXALPRPFGMF" imageId="47225112"/>
+    </Metadata>
+    <Page imageFilename="391247_0002_0.jpg" imageWidth="4096" imageHeight="6144">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1690883610057" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="eSc_textblock_9d33e39b"/>
+                <RegionRefIndexed index="1" regionRef="eSc_textblock_558b386f"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="eSc_textblock_9d33e39b" custom="readingOrder {index:0;} structure {type:text;}">
+            <Coords points="1333,626 1402,718 1292,800 873,815 819,774 853,614"/>
+            <TextLine id="eSc_line_421e1190" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="1290,624 1239,624 1187,624 1162,619 849,660 834,696 839,752 844,849 977,849 983,849 988,849 1008,829 1075,778 1326,778 1331,716 1310,624 1290,624"/>
+                <Baseline points="841,754 1332,721"/>
+                <TextEquiv>
+                    <Unicode>II/₂ H74</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="eSc_textblock_558b386f" custom="readingOrder {index:1;} structure {type:text;}">
+            <Coords points="2331,1392 2740,1542 2781,1675 2877,1733 2904,1976 3000,2048 2986,2181 2618,2235 1529,2249 1474,2007 1375,1894 1256,1853 1256,1774 1378,1594 1406,1433 1672,1338"/>
+            <TextLine id="eSc_line_823deede" custom="readingOrder {index:0;} structure {type:default;}">
+                <Coords points="2641,1505 2590,1489 2539,1469 2401,1469 2396,1464 2293,1387 2283,1387 2232,1382 2181,1377 2135,1372 1986,1387 1909,1356 1873,1356 1822,1351 1771,1346 1720,1341 1669,1341 1617,1356 1566,1367 1464,1433 1464,1561 1464,1653 1582,1612 1653,1648 1704,1674 1710,1674 1715,1674 1720,1674 1848,1643 1863,1638 1868,1638 1909,1674 1914,1674 1920,1674 2165,1679 2170,1679 2176,1679 2181,1679 2252,1628 2278,1612 2462,1612 2483,1617 2580,1653 2585,1653 2590,1653 2595,1653 2744,1607 2749,1571 2688,1520 2641,1505"/>
+                <Baseline points="1467,1563 2751,1574"/>
+                <TextEquiv>
+                    <Unicode>Claſſiſche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_b01f3dd1" custom="readingOrder {index:1;} structure {type:default;}">
+                <Coords points="2800,1694 2785,1669 2749,1658 2744,1658 2739,1658 2734,1658 2728,1658 2698,1684 2631,1735 2493,1735 2447,1694 2416,1664 2411,1664 2406,1664 2176,1648 2170,1648 2165,1648 2160,1648 2073,1710 2027,1740 1745,1740 1720,1725 1633,1664 1628,1664 1623,1664 1356,1653 1351,1653 1346,1653 1341,1653 1341,1658 1315,1679 1315,1684 1264,1756 1269,1827 1269,1935 1320,1960 1326,1960 1331,1960 1336,1960 1341,1960 1372,1935 1495,1991 1500,1991 1505,1996 1925,1996 1925,1991 1930,1991 1935,1991 2068,1904 2094,1894 2242,1894 2247,1899 2421,1960 2426,1960 2432,1960 2437,1960 2626,1889 2626,1884 2826,1879 2826,1817 2821,1704 2800,1694"/>
+                <Baseline points="1273,1829 2827,1820"/>
+                <TextEquiv>
+                    <Unicode>Walpurgisnacht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="eSc_line_98781b19" custom="readingOrder {index:2;} structure {type:default;}">
+                <Coords points="2949,2017 2928,2001 2641,2022 2636,2022 2631,2022 2570,2078 2472,2078 2416,2032 2391,2012 2385,2012 2380,2012 2375,2012 2201,2042 2109,2027 2104,2027 2099,2027 2012,2058 1976,2073 1950,2063 1858,2022 1853,2022 1848,2022 1843,2022 1838,2022 1838,2027 1786,2073 1771,2094 1515,2094 1520,2186 1520,2283 1776,2283 1776,2278 1781,2278 1822,2263 1935,2227 2078,2252 2186,2268 2191,2268 2350,2237 2447,2216 2508,2227 2667,2263 2672,2263 2677,2263 2682,2263 2749,2216 2754,2211 2764,2211 2836,2232 2841,2232 2846,2232 2851,2232 2964,2201 2964,2160 2949,2017 2949,2017"/>
+                <Baseline points="1522,2191 2967,2165"/>
+                <TextEquiv>
+                    <Unicode>erſtes Mundum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
